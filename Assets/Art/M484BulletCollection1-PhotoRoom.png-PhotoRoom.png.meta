@@ -1,0 +1,6483 @@
+fileFormatVersion: 2
+guid: 6e7dc6eef5274ff41865ee739260c43a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 339
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77c127c9877de643b747dadb5bc8f1e
+      internalID: 752017778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 341
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424d4660a1787df4fadc70461052248f
+      internalID: -1206191228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a733a6143596c40bc00568de28bc18
+      internalID: -73300243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9346252a9a931fe4e83069c185cd222d
+      internalID: -1167382542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 339
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cc23302d32770468221fc12ea43e21
+      internalID: 645851814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 338
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bc8b77dd8b06845a9400f46625eb2d
+      internalID: 533569714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 337
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771831b4fde3c3540b996c702bdc21e7
+      internalID: 511262678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 341
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c9e5d619379ad49b8829facea214ad
+      internalID: -1679773339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436763db1c6290e45a8099a942f93cd6
+      internalID: 1133616400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aba23361417ca47b2a7b6d1b014683
+      internalID: 461241164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 343
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ff1498fa272149bb8815ac8746eb4
+      internalID: 1123293110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 343
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f4cc8d5f9e3a4b8b9f980bc121fe9
+      internalID: -1236771540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 343
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca2812eb68031747b407a695bca2581
+      internalID: -1787682313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 343
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849deb07278b8534e8cd7fb4d0a16cda
+      internalID: 187441633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 345
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f193412b7cbe94cb53a9b0ffed1507
+      internalID: -1681497830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 344
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055808ff0d26c84cbaa5902ea0cb062
+      internalID: 1312843179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21587d62cc9414f4a932adb9ce15384d
+      internalID: -1251923448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 329
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db616f7a7ee8414d9bce8a7f3fbd844
+      internalID: 2013302481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 330
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d3081752ab3747a85c0844538c252
+      internalID: -183941433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 330
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dae3064d9416d9489a9435e9ee9e880
+      internalID: -2061661296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 330
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff7304a4410acb49aec1653d732dc9b
+      internalID: -1630685304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 293
+        width: 14
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6a384be30a25b45b21cdcd0ada1684
+      internalID: 2133729417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 293
+        width: 14
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d739ee3273db2c740a11e837c2a460c8
+      internalID: -1839453422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 293
+        width: 15
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcca0062c50da94e870bd1ab8de3dbc
+      internalID: 1078304472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 292
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c742f4de3acb2e448934aae5b36a7b4d
+      internalID: 1691969092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 320
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0065e69524a71644a61a4fb1c772701
+      internalID: -1656657546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 320
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30d91d5c693ef5469429fae0f0205bd
+      internalID: 621298461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 319
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598346d7d13fb2d44bf961a7f93677be
+      internalID: -335472489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 318
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e6ca5e23ba55945810d6f21549c8d4
+      internalID: 1944368244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 321
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f098ba8e31c193f4bb14a7bb0286fdf6
+      internalID: 1037425167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491eac1d144d7884392e39a638396026
+      internalID: 219547497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 318
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498bd81d801a1042ba26fc36827de01
+      internalID: 98002792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 323
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac1fad4aaf0eb4090331bc37cb560f
+      internalID: -781991360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 323
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee773f1e9d85f7439209f23e2e56343
+      internalID: 50824903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 323
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec61a8624b2d3b4499ae5abd06fc7d2e
+      internalID: -1202002041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 323
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15b3f2398506d0498084c12ab4bb5de
+      internalID: -567991900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 327
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8642b05d35aaab04b9e2fb78d3c2f714
+      internalID: 1209024329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 325
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf5929d16c84a74ca66d0cf2802cc49
+      internalID: 1841267448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 325
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea33709c0145abb4f800d4428b9e0f4b
+      internalID: -862050635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 315
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bde0b0ecdb4384bb36861134e1cbf9
+      internalID: -646760205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_40
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 315
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8256b422f56dbed4fb481e90144e560f
+      internalID: 1514868997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 315
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9864580d1339104a9c6097d108307e2
+      internalID: -10758463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_42
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 314
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45daebd649bc97243a9ddf7f37f4d1af
+      internalID: -408624796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 302
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59553af46d9faf349b440fb783b72a6c
+      internalID: -247443838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 304
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168bdb20378a8a45b0d70de7e98f921
+      internalID: -1682943204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 302
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7888387d82baf349b1db7d9afec43a5
+      internalID: 1398079981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 302
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a15971fa8b1784e84a71c0d2f9b1d5
+      internalID: -1372634456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 302
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32f3c64db2d8514cbcf293c5732b419
+      internalID: -284039310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 301
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a90f360830b77d42bbc1f816c7ad714
+      internalID: 1072120004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 301
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec925780e0b15d347b5aacd9228a0fe8
+      internalID: -414585023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6206239439449cc438d10346febe2c82
+      internalID: 1005434493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393c232c91d282e42a2f36b8c24cb79d
+      internalID: 992581896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 302
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850340fd0462c6649bcfa118910b6062
+      internalID: -1609841036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 302
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46555f073a0152046a8665c7631faccd
+      internalID: 1505238335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_54
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 302
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b3b0b4eb4f3c4f87f2b7f7d113e6e
+      internalID: -1640933395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_55
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 302
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e9f47ecc392a54093fbac1c02059fe
+      internalID: 1090954600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_56
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 306
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d151bde1e548b344a81564ecdc1bc0f
+      internalID: 1926955502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_57
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 305
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086695ce8fe9a0940b15aa4c254b3a20
+      internalID: 15456730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_58
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 303
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84263743952a2674886d0d9e199d7e94
+      internalID: 972318112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_59
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 303
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d3786af5f9764e9668f7943ce0af4
+      internalID: 547909063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 285
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18419605a12a0f43be5ebb685aff32a
+      internalID: -721979588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 284
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e5aba965d0fd44f9e33ec5d880aff0
+      internalID: -1659102541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 285
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd98e431cfe003a4893e83ece926bbcb
+      internalID: -1919891827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_63
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 283
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e05609e8d2653e4fa1d0920c6a6cef1
+      internalID: -668921750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 282
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f536c29da50c84b8f6000699b381c8
+      internalID: -21527843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9375648466e06f242820c85aefc4b9eb
+      internalID: 862785695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_66
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 279
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad3b9e6eb79ca4cade4921ed584121
+      internalID: -1589358898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_67
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64862284c62c7a64cac02a03ccba9c8b
+      internalID: -1583157230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 281
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ff01380883cfc4c8ef8c9a492d9da1
+      internalID: 2091294367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_69
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 281
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9a9775a71c174687171c2c5499b96
+      internalID: -1406779707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_70
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 281
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aca458f4639b64b85690b2b8c15ab0
+      internalID: 1211655245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_71
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 281
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb418c7b91ae447a179fa7d0e6c303
+      internalID: -1815645717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_72
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 286
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e505c7c6f843c6b41b3251eedc0961d1
+      internalID: 1095166329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_73
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 284
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7193f6deaca21d4abe27fca80c8144a
+      internalID: -1297148216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_74
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 284
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23739ce97be57c1498138445b3feb0cc
+      internalID: 2095038187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 255
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664cb6a3321850a489d47184da94daf5
+      internalID: 971074000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_76
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 254
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb47b7df0a0b8604da2be82ca8448f86
+      internalID: 678839148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_77
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 253
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330f8399fd60fee40b4d3811ac0d8908
+      internalID: -511639950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_78
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 253
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aed6e09bb36174eb4ff2d529cf3174
+      internalID: 453664587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_79
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 253
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590ca30db595fb54a84062746e156572
+      internalID: -1756607922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_80
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 253
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c68865a81d6e940961e58a9ad76004
+      internalID: 913207294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 253
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5876699536b1ef4387a7da19e1ee8d8
+      internalID: -1953538131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 253
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ae27f1b24bda145b38466b77e1ab29
+      internalID: 1459660179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 253
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f46785486a63f4ea5321b3223c3960
+      internalID: -136436882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_84
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 253
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abf21e33e5ac9f4e9ed90b49573af5a
+      internalID: -352170341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_85
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 253
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726395b63392506478ab8772679145a4
+      internalID: 1301786005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_86
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 226
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f140a72602eceb843b870e33d1774b1d
+      internalID: -760085431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_87
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 226
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b6480b5b9a98a40977e93236b9a354
+      internalID: 1084848227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_88
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 226
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed1256caf1f3c44abde829295979da
+      internalID: 549420163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_89
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 226
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b674e683e14a84bbea003301ba0a48
+      internalID: -306384473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_90
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 232
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf86a27c97d3f24aa411421ea82affc
+      internalID: -841479279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_91
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 232
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a80e3574c89cc4abd3b25adf8e260f
+      internalID: 2045215831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_92
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 232
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1933a9eaab95c4e9b439c6e2148e3b
+      internalID: -925355203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2828422fe8a055c4ab08c48856db0657
+      internalID: -1322338365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 232
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a654dfa7189fbcc45967ebf3ad6e4cb8
+      internalID: -1073483088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_95
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eface29978105964b9d496e398285935
+      internalID: 1783237879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_96
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 238
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931ee1b8832c3214dbf59be1e49cf795
+      internalID: 1063270906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_97
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 238
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5defc765fc37d54a9f0d5f9f009dbd7
+      internalID: -1967510750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_98
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 238
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d303eb4bdcbdc4ba14791e6854e796
+      internalID: 1132318844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_99
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 238
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0175c08048b50f40ba91a67e6038073
+      internalID: 1495307727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_100
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 238
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246408f69fa205439c11c641b736058
+      internalID: 368235012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_101
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 238
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe85abca6a7fe6429b99fc30299a175
+      internalID: 15773718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_102
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 238
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f428cad96ce5cba42a16804e1a89e742
+      internalID: 1761689702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_103
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 242
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5478116f3713d354d848e1f113dce9bf
+      internalID: -1028330454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_104
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 241
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113ec5233b24c848b1a411ecbb36603
+      internalID: -380022652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_105
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 241
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1161e387bc70ac54aa526ef670143a84
+      internalID: 450607011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_106
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e588faedbfca074baafab241d68bb52
+      internalID: -993303210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_107
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 242
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a044ca02e40ea439f651d2e83ff487
+      internalID: -2127915617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 241
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e4304adc454884588be0818b3cbeca
+      internalID: 167251284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_109
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 234
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcd5afd5b92b124ca4cae6fa95243fe
+      internalID: -1530232407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_110
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 233
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad6c700f9842d441a4be2466daf0a4e
+      internalID: 1846726076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_111
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ab91a93f9e7814f89e766e77440318
+      internalID: 1090088381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_112
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe4e86ef09f45747815fcf56148bfae
+      internalID: -283544482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_113
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 232
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485b2a1ad7027c4fa949353f2e65a63
+      internalID: -1583347567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_114
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 223
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf0b758f7c310f43b067ea07c19ab32
+      internalID: -1912940530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_115
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 223
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40176726ed73a914299337e8da0f18c6
+      internalID: 2006042653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_116
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 223
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3441f8bb5afa05d4683bc0db230af7f6
+      internalID: -1219032546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b158989db9cde846bbdf2e048d3eaa9
+      internalID: -1477836967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_118
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 223
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11ddef9fe98bb14587f538797e7139a
+      internalID: 572286028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_119
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 223
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a996813f46d8c4dbc956aa1bf8ce47
+      internalID: 2061861664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_120
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 223
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6821099389f7c744bb017784076a684
+      internalID: 1978002490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_121
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 228
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d83a2bb1f82ca344ae6cdfcbf239bc3
+      internalID: -636427697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_122
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 228
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e396247f7518a4cb59e4676837a47d
+      internalID: 1220113471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_123
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 227
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88722d670e287c244b3c60879baf3375
+      internalID: 1430997909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_124
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 227
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb815b1b1f5caa4491c66cccc0cd1eb
+      internalID: 1907391356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_125
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 228
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a386abef76858c44097aea431dbb64c2
+      internalID: 1852001500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 227
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a669833c394674ca2fc7455c63afb8
+      internalID: -961406313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_127
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 216
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449ab096b5a4fed4bb86bdf37b7f4ca2
+      internalID: 1016515535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_128
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2464a3892109ac244839297fff454756
+      internalID: 45498563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_129
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e67408f0ac254db560ef903b98da1
+      internalID: 645344935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_130
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583fa7c5b3a0b6347b778c9f5d724ece
+      internalID: 1599839892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_131
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 214
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca3a03a27b604a42aed115382d957cd
+      internalID: 1851452682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_132
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 214
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5218c9916e3557545ae437f4bf1f1c3a
+      internalID: -1124125667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_133
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 214
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ed30b7e53f18241bdc1bd23eb488cc
+      internalID: 2007045065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 214
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4edda8df1f49240bcbf5070118170e
+      internalID: -1940063674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 214
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6cd670f341694e9c6c9c6f353316b
+      internalID: 1576193436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_136
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 214
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28920e20fa0859b4a8be8aff273a664d
+      internalID: -712582259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_137
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 214
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32964690443adb748aa5997ab2492291
+      internalID: 1149002088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_138
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 208
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb50a9196560a54db1120c3d5a1123f
+      internalID: -1166652165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_139
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 208
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b219532639576a4e971d125c3264c37
+      internalID: -1717896159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_140
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 208
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cc0b24245100c4b99b0b853863149f
+      internalID: 2002996922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_141
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 208
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a14407619ae7b43bbfbbd70f62685a
+      internalID: 731971187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_142
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 208
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a273e94793156174bb8fc9b490b5494f
+      internalID: -1812220387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_143
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 208
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b98530962f35ff48a51f1b49f2791f2
+      internalID: -1124255438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_144
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 208
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05805b57819a1a747a4f0c5722f97286
+      internalID: -1825058527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_145
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 206
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016f904cf5ed12e4d9c8035d403aba3a
+      internalID: 1964123586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_146
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2072a41820158214c884d8b20b94e0fc
+      internalID: -1039655276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_147
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03690c40251f92e44a42275bc64b6b98
+      internalID: -1500163094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_148
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 205
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb919368cd266bf4b8d24b5ca12b4598
+      internalID: -141376494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_149
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 206
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb518cf5dfa621148b6197ce561fc39a
+      internalID: 2761764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_150
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1251a7961112094e87472ccabf74e42
+      internalID: -2041055117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_151
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 195
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66914f602f88fb34f81b495035e3147f
+      internalID: -1783213164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_152
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 194
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e2285da797a704eb8e2fda12113eef
+      internalID: -563079391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_153
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5978729a6e10408489b457ed8676b328
+      internalID: -410072161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_154
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 194
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5390ab275b68a04299b27a4df80fc77
+      internalID: -585446509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_155
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 194
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af3bfc09bc2fe4ba7e47dd866df1fb
+      internalID: 1824103355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_156
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 194
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd753770f45121459aa1ef2f6b29e34
+      internalID: 931830632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_157
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0318dfa127567c9428f515f8acee7c24
+      internalID: -1758495886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 194
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a59fdb73fc80c0408dba79cbcbe62f4
+      internalID: -378991291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_159
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 194
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85163c65506ce824da814086580dea11
+      internalID: 768254817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_160
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d093c98d0a4a0448478be428cc56a6
+      internalID: -1925129602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_161
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a750a82f665346898cee6f7484272
+      internalID: 820014302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_162
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c7c82fc8fb6e14cb7dab32b4d44ac5
+      internalID: 286053343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_163
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dae7de6f033d0409d8d2f567f6a360
+      internalID: 1365064208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_164
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7d2f0e6c5c3514e9a830dcae56f9cd
+      internalID: 393123583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_165
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 192
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5052467b85005e648ae1d6ea84f478fa
+      internalID: -757575231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_166
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fe29ab631b8844cb926ca32d035c77
+      internalID: -1787371896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_167
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa61f661a820a3c40ad40be4191d057b
+      internalID: 1302452576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_168
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b66f840f380b34c8212bfaad2ccb53
+      internalID: 658139811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_169
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 190
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620ffa94cb996cd47b470e01d61bcff2
+      internalID: 1695489044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_170
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d57c129e8d2a84c9f5a9d3d12f8d64
+      internalID: 694409367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_171
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 189
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea72350f03b5f24ca7c5a6ea730edb0
+      internalID: -1304403795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_172
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 189
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f350592bdf390d4298e646dba9d4a69
+      internalID: -1911244292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_173
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 190
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d579f32107fb2469b14c88b95ff117
+      internalID: 2122058116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_174
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 190
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcce465b27fead40969271fa45ad29d
+      internalID: 312296472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_175
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 165
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f49775d2e09b2448808fe28fe84d5f
+      internalID: 291592938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_176
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 165
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721b18a95620afc41bef3073e4da6be5
+      internalID: -1573838587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_177
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 165
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1e3bb6114dde544ace2b13aa2d5a41
+      internalID: 172073576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_178
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 165
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02609124ce05c4d838d33b0f024f66
+      internalID: -1885752737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_179
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 151
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad12b2c0cf86fc341a434deab18ec79c
+      internalID: 1183632336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_180
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 150
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a14f9b730802c445a570e53eb04c81f
+      internalID: 103322733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_181
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 151
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70be7ba710e18841b4190fe994acdc3
+      internalID: -1098134788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_182
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 151
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f84ce961d9fe364fa3e2b5fb5ca6597
+      internalID: 430021400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_183
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 150
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab23eb9de0e832e4a91461d56fb01f5a
+      internalID: -1794271448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_184
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3966c4ba3313d94cba3daf3edc14bf6
+      internalID: 1978230379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_185
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f095d84c5ab6b8948a6be25b204234f7
+      internalID: 410921548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_186
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 147
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946a6f09e0c348844948888d6cd5e841
+      internalID: 1436501929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_187
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 147
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388855903a94af04b9e60c5f14bd8d20
+      internalID: -37502046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_188
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 151
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff13b1b972653f43a759d0d2bf15c20
+      internalID: 1904936024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_189
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 150
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596681f4c8d10ff4ea74c4dbfd0b0eae
+      internalID: -1732245068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_190
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f28d8d6d82a65f4ab2941dbe387d650
+      internalID: -1092999206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_191
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 151
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acc3d9ffe13ad1409b4872f62c14d4b
+      internalID: 1050373532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_192
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 150
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe7102752c6e944b49f647cd3464d2
+      internalID: -243930282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_193
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631817c4dbf8c28479037ad3441c908a
+      internalID: -922504140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_194
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 150
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4789c5ecdf161534a9268fde6ef3ab02
+      internalID: 1191176885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_195
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 150
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60b7c95cee04d341b3af59fa0f26645
+      internalID: -2020309158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_196
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 149
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ebcdaa9d305f24a934586a50d38404
+      internalID: -1443378673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_197
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 151
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc057ec3d1970004790b781128a3e16b
+      internalID: 851866709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_198
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 150
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e23a6f9f4cb80b43878eafc4c412737
+      internalID: 1450320722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_199
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab221f3a2e139842b7aaa4a01f44016
+      internalID: -168772027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_200
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 129
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fec76b1311918d429e8cf1d1aa1917b
+      internalID: 1543555075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_201
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 130
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b509b27354a242ac7d89085e2bd60
+      internalID: -1038193437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_202
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 130
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77561b0f11fa2824c821825e6cf18e90
+      internalID: -878581760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_203
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 130
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970c3449958a7e74283633582ad9657c
+      internalID: -1726012588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_204
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 135
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a34d330f09d81c40a735ddbb852ad18
+      internalID: 2047029612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_205
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 135
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b42167b5f80d91429aa125dbaf53ae8
+      internalID: 1733588550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_206
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 135
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca298a43cd7ecd46bb5476e2670620d
+      internalID: -1238411201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_207
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 135
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4697576af40d44688f0439f06317ad
+      internalID: 1030785566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_208
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 135
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0766013d628e444b88aa46e04ad607
+      internalID: 864076472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_209
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 135
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a0acf53b40f51498960d3c47181310
+      internalID: 1808639330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_210
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 136
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecc1638b299e464d8227ed184f1f03c
+      internalID: 2051754214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_211
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 136
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b7b3ab95f0eae4a862c17f0faeb6d9
+      internalID: -1673073220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_212
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 131
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fea7c8404eda243af801d34e7b1b4f
+      internalID: -1625141942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_213
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 131
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fe4434990091d4597285476d0e566c
+      internalID: -2141658152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_214
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 131
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b072e0eb4a75d4b819bc2664aa71a9
+      internalID: 1913780715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_215
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 131
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b89500eea985144848f9353e6bf7e9
+      internalID: -1915155412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_216
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 131
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a062b58e46fa2498d2d43b8afdfb9b
+      internalID: 378438885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_217
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 111
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c796d32ab40d114e93d0da61d7b30b6
+      internalID: 854606696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_218
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7461f92dd240e04887312ba62a0975b
+      internalID: 420455520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_219
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 111
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14e3df28c1be14da01fa8191b7c46d
+      internalID: 1738555887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_220
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 111
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc6bf632f3659a40a030a27564ff7f0
+      internalID: -595610202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_221
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcd5b7105bf1b94aa102e6db9fb83e3
+      internalID: -766783544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_222
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 117
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2665a99caf097d143948fd77b8387099
+      internalID: 1487325052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_223
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 118
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512b57ab204693c47a9221f6c67bee45
+      internalID: 1156651900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_224
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1b423ca5d97b740a7039a603096539
+      internalID: 2039540953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_225
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 117
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3020d694e0f50e64aa042e1f0bcbc13c
+      internalID: -200236157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_226
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd0c26409bd274292dc1a983b0b7e9
+      internalID: 1769714350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_227
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eed6aa2af6a1c4ca73b98b554e62c5
+      internalID: -1175775962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_228
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 117
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bd752d845ba204d956c9bf599de31e
+      internalID: -513479866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_229
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 118
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d678e0999c0e34f9e77066c8ba8b88
+      internalID: -1902260866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_230
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 118
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df840582e193bc468264b9be082af77
+      internalID: -727100009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_231
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 117
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2ab1064e374ef4d94e07a828ea3dd1
+      internalID: -788438130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_232
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c08e4021f22de44c99052222051fffc
+      internalID: -1763780497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_233
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 115
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd6fddb068ae4b4197188e6df032e6e
+      internalID: 716770158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_234
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 115
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2670e0abbf9fb46b2a16af377594d9
+      internalID: -564814299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_235
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 115
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f53a32a78c675b4ca7e7c7811ce4767
+      internalID: -1820246172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_236
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 115
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d578b3c640ca746b79e9b304b0d469
+      internalID: -764985369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_237
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 115
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ab2006b8cff344eaff329aba566a0b
+      internalID: 75031024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_238
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 63
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f19d8f3443f7b47912eaba3bb94a48
+      internalID: -394907822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_239
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 63
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87cfeed7dce8524381ddf2ce4b1b334
+      internalID: -1703677073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_240
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 63
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036a738b1b7eb0d4088981dd29ef13e0
+      internalID: -1425992325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8636535b4849a1a44999bd8adf368fd8
+      internalID: 346599637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_242
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383338496f358ea4693b97f5b339b174
+      internalID: 445264564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_243
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa371b6766a8d641959eda69d6ceb2c
+      internalID: -1918684437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_244
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9283a81e8209f4f8ede7f65c2ce7ea
+      internalID: 1906711893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_245
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a189660556ba4f9bd946d008287d6
+      internalID: -1907839988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_246
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 80
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a6655fc812944795d84bd8d963b02
+      internalID: -541039835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_247
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08805781365da4d44b2b13de06b98872
+      internalID: -1699920393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_248
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ebc44ba56648840af63aa7675855e7
+      internalID: -2022694952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_249
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9c11b229de56b41b15fc4a701eed37
+      internalID: 1868295438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_250
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe5d20cdb3331d44b0edfcb3a9fe5b4
+      internalID: -510737607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_251
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 76
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ea89d5d31d6a845bd15adf427a6e0d
+      internalID: -995496349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_252
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b375cb4646f6db44290ee894c6cf777b
+      internalID: -796475131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_253
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42046da7f2a32af44bbde92e67b193a6
+      internalID: -92728327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_254
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d884d433fb281428fd381ee8e51e5d
+      internalID: -2105707271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_255
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 88
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c8c3bbd4b6504fa514fb8d4446e44
+      internalID: -383201216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_256
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 88
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843ae40d0606091478ecba0f667ead12
+      internalID: 706758149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_257
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 89
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa478fbad3cb7664a8421b86848db80d
+      internalID: 923238285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_258
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 89
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64615ae18a78e1140b70370256fc3456
+      internalID: -381523293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_259
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 89
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a104e7cbc734474cb26b074015694e6
+      internalID: 580242931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_260
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 67
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca401bca414fdd44baf013cb7259572
+      internalID: -295049541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_261
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 67
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccc16dffebc52945843aa7c1e6ecf4e
+      internalID: 442449640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_262
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 68
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518c4cdc60af89641b22a5219f4a43e7
+      internalID: -537630677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_263
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 68
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1ac420a64a9b046852483497736fe7
+      internalID: 463345637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_264
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 68
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ff0d56c3ceb7f4e8dbcdbb0ca2b0e7
+      internalID: -124744310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_265
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8370ae830ebdb274da8df5b90c73430e
+      internalID: 847127217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_266
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 40
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de41b7136b6e0744f90004d05a01d0ad
+      internalID: -1673650535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_267
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 40
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d460197c063465e4297f89aa43cb84ec
+      internalID: -889755761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_268
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee39bd51357bf01428123b830b6942a5
+      internalID: -706328425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_269
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 46
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0401382b358c2604c840c492194c3a57
+      internalID: 1027815854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_270
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 46
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ab3a57c66c9544092b28a1dc76acff
+      internalID: 370902962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_271
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 46
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec49495c81e45847a943ef25c995fde
+      internalID: 271169366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_272
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 46
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1931104d6f4a1f49a67e3c6733276cb
+      internalID: 267539171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_273
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 42
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356ed0d49c064854c9595e3a26dee780
+      internalID: -4894000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_274
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 43
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c6fbe535d9258469d8f64d6ce804d4
+      internalID: 635265938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_275
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 19
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1c37260a5387b49808dc1bcc9c87e4
+      internalID: -1312018667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_276
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 23
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e2c64e99c59f94ead390a95ffda01f
+      internalID: -641965623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_277
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 23
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cebe5f9ce5bc64ebd7c8fb605738e9
+      internalID: 784335546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_278
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 23
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f78864c1b141408a949e0e0255d42
+      internalID: 1107090952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_279
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 23
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c59d6d5c13872c43be0fcb9d5e5869a
+      internalID: 718781430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_280
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 17
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1576ad96bd52584e97d3ac4c8a5b0f7
+      internalID: 1374448255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_281
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee6ded325f4b2249921fd3140523886
+      internalID: -1477918390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_282
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 17
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b643a6f067924314497b279d9e34fadf
+      internalID: -2047396364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_283
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 33
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5863f9e588ff7af44acbb44541b6ddc4
+      internalID: -8859831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_284
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3b9ea06d497e45b63b667ebbf34b6
+      internalID: -1550053382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_285
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ed6722230df6e44a51ae74bdddeae2
+      internalID: 1993970095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_286
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630b2b0299a72604b957c1c88067a6e1
+      internalID: -530749080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484BulletCollection1-PhotoRoom.png-PhotoRoom_287
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ceb8156af6f9f4ea5577619b78d486
+      internalID: 1241282453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_0: 752017778
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_1: -1206191228
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_10: 1123293110
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_100: 368235012
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_101: 15773718
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_102: 1761689702
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_103: -1028330454
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_104: -380022652
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_105: 450607011
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_106: -993303210
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_107: -2127915617
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_108: 167251284
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_109: -1530232407
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_11: -1236771540
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_110: 1846726076
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_111: 1090088381
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_112: -283544482
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_113: -1583347567
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_114: -1912940530
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_115: 2006042653
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_116: -1219032546
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_117: -1477836967
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_118: 572286028
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_119: 2061861664
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_12: -1787682313
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_120: 1978002490
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_121: -636427697
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_122: 1220113471
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_123: 1430997909
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_124: 1907391356
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_125: 1852001500
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_126: -961406313
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_127: 1016515535
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_128: 45498563
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_129: 645344935
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_13: 187441633
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_130: 1599839892
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_131: 1851452682
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_132: -1124125667
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_133: 2007045065
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_134: -1940063674
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_135: 1576193436
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_136: -712582259
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_137: 1149002088
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_138: -1166652165
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_139: -1717896159
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_14: -1681497830
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_140: 2002996922
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_141: 731971187
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_142: -1812220387
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_143: -1124255438
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_144: -1825058527
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_145: 1964123586
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_146: -1039655276
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_147: -1500163094
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_148: -141376494
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_149: 2761764
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_15: 1312843179
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_150: -2041055117
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_151: -1783213164
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_152: -563079391
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_153: -410072161
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_154: -585446509
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_155: 1824103355
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_156: 931830632
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_157: -1758495886
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_158: -378991291
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_159: 768254817
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_16: -1251923448
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_160: -1925129602
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_161: 820014302
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_162: 286053343
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_163: 1365064208
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_164: 393123583
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_165: -757575231
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_166: -1787371896
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_167: 1302452576
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_168: 658139811
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_169: 1695489044
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_17: 2013302481
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_170: 694409367
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_171: -1304403795
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_172: -1911244292
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_173: 2122058116
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_174: 312296472
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_175: 291592938
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_176: -1573838587
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_177: 172073576
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_178: -1885752737
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_179: 1183632336
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_18: -183941433
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_180: 103322733
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_181: -1098134788
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_182: 430021400
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_183: -1794271448
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_184: 1978230379
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_185: 410921548
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_186: 1436501929
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_187: -37502046
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_188: 1904936024
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_189: -1732245068
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_19: -2061661296
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_190: -1092999206
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_191: 1050373532
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_192: -243930282
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_193: -922504140
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_194: 1191176885
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_195: -2020309158
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_196: -1443378673
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_197: 851866709
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_198: 1450320722
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_199: -168772027
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_2: -73300243
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_20: -1630685304
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_200: 1543555075
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_201: -1038193437
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_202: -878581760
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_203: -1726012588
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_204: 2047029612
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_205: 1733588550
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_206: -1238411201
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_207: 1030785566
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_208: 864076472
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_209: 1808639330
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_21: 2133729417
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_210: 2051754214
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_211: -1673073220
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_212: -1625141942
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_213: -2141658152
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_214: 1913780715
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_215: -1915155412
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_216: 378438885
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_217: 854606696
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_218: 420455520
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_219: 1738555887
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_22: -1839453422
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_220: -595610202
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_221: -766783544
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_222: 1487325052
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_223: 1156651900
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_224: 2039540953
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_225: -200236157
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_226: 1769714350
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_227: -1175775962
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_228: -513479866
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_229: -1902260866
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_23: 1078304472
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_230: -727100009
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_231: -788438130
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_232: -1763780497
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_233: 716770158
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_234: -564814299
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_235: -1820246172
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_236: -764985369
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_237: 75031024
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_238: -394907822
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_239: -1703677073
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_24: 1691969092
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_240: -1425992325
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_241: 346599637
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_242: 445264564
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_243: -1918684437
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_244: 1906711893
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_245: -1907839988
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_246: -541039835
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_247: -1699920393
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_248: -2022694952
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_249: 1868295438
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_25: -1656657546
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_250: -510737607
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_251: -995496349
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_252: -796475131
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_253: -92728327
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_254: -2105707271
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_255: -383201216
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_256: 706758149
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_257: 923238285
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_258: -381523293
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_259: 580242931
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_26: 621298461
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_260: -295049541
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_261: 442449640
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_262: -537630677
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_263: 463345637
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_264: -124744310
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_265: 847127217
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_266: -1673650535
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_267: -889755761
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_268: -706328425
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_269: 1027815854
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_27: -335472489
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_270: 370902962
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_271: 271169366
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_272: 267539171
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_273: -4894000
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_274: 635265938
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_275: -1312018667
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_276: -641965623
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_277: 784335546
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_278: 1107090952
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_279: 718781430
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_28: 1944368244
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_280: 1374448255
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_281: -1477918390
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_282: -2047396364
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_283: -8859831
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_284: -1550053382
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_285: 1993970095
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_286: -530749080
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_287: 1241282453
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_29: 1037425167
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_3: -1167382542
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_30: 219547497
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_31: 98002792
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_32: -781991360
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_33: 50824903
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_34: -1202002041
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_35: -567991900
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_36: 1209024329
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_37: 1841267448
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_38: -862050635
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_39: -646760205
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_4: 645851814
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_40: 1514868997
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_41: -10758463
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_42: -408624796
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_43: -247443838
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_44: -1682943204
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_45: 1398079981
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_46: -1372634456
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_47: -284039310
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_48: 1072120004
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_49: -414585023
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_5: 533569714
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_50: 1005434493
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_51: 992581896
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_52: -1609841036
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_53: 1505238335
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_54: -1640933395
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_55: 1090954600
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_56: 1926955502
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_57: 15456730
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_58: 972318112
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_59: 547909063
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_6: 511262678
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_60: -721979588
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_61: -1659102541
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_62: -1919891827
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_63: -668921750
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_64: -21527843
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_65: 862785695
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_66: -1589358898
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_67: -1583157230
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_68: 2091294367
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_69: -1406779707
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_7: -1679773339
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_70: 1211655245
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_71: -1815645717
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_72: 1095166329
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_73: -1297148216
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_74: 2095038187
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_75: 971074000
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_76: 678839148
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_77: -511639950
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_78: 453664587
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_79: -1756607922
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_8: 1133616400
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_80: 913207294
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_81: -1953538131
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_82: 1459660179
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_83: -136436882
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_84: -352170341
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_85: 1301786005
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_86: -760085431
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_87: 1084848227
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_88: 549420163
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_89: -306384473
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_9: 461241164
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_90: -841479279
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_91: 2045215831
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_92: -925355203
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_93: -1322338365
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_94: -1073483088
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_95: 1783237879
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_96: 1063270906
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_97: -1967510750
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_98: 1132318844
+      M484BulletCollection1-PhotoRoom.png-PhotoRoom_99: 1495307727
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
