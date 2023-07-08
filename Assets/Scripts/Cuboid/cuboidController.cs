@@ -8,6 +8,7 @@ public class cuboidController : MonoBehaviour
     public int hitPoints;
     public float cuboidSpeed;
     public float cuboidTimedShots;
+    public float shootingRange;
 
     public Transform playerTarget;
     public Transform firePoint;
@@ -19,20 +20,23 @@ public class cuboidController : MonoBehaviour
         canShoot = true;
     }
 
-    private void FixedUpdate() {
+    private void Update() {
+        Vector2 direction = playerTarget.position - transform.position;
+        direction.Normalize();
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+        transform.rotation = Quaternion.Euler(Vector3.forward * angle);
+
+        float distanceFromPlayer = Vector2.Distance(playerTarget.position, transform.position);
 
         if (canShoot) {
             cuboidFire();
         }
 
-        else {
-            Vector2 direction = playerTarget.position - transform.position;
-            direction.Normalize();
-            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-
+        if (distanceFromPlayer > shootingRange) { 
             transform.position = Vector2.MoveTowards(this.transform.position, playerTarget.position, cuboidSpeed * Time.fixedDeltaTime);
-            transform.rotation = Quaternion.Euler(Vector3.forward * angle);
         }
+
+            
     }
 
     public void cuboidFire() {
