@@ -18,6 +18,7 @@ public class cuboidController : MonoBehaviour
 
     private void Start() {
         canShoot = true;
+        playerTarget = GameObject.FindWithTag("Player").transform;
     }
 
     private void Update() {
@@ -55,10 +56,12 @@ public class cuboidController : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision) {
         if (collision.gameObject.tag == "Bullet") {
             hitPoints--;
-
-            if (hitPoints <= 0) {
-                Destroy(gameObject);
-            }
+        }
+        else if(collision.gameObject.tag == "Bouncy") {
+            hitPoints--;
+        }
+        if (hitPoints <= 0) {
+            Destroy(gameObject);
         }
     }
 }

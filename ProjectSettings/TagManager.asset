@@ -8,6 +8,9 @@ TagManager:
   - Enemy
   - EnemyBullet
   - Wall
+  - Cuboid
+  - Kamikaze
+  - Bouncy
   layers:
   - Default
   - TransparentFX
@@ -19,10 +22,10 @@ TagManager:
   - Bullet
   - Wall
   - 
-  - Enemy
+  - Cuboid
   - EnemyBullet
-  - 
-  - 
+  - Kamikaze
+  - Bouncy
   - 
   - 
   - 

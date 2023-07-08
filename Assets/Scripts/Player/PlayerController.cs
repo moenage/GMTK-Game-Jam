@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour {
 
     public Rigidbody2D rb;
     public float moveSpeed = 5f;
+    public int hitpoints;
     public Vector2 PlayerInput;
 
     // Update is called once per frame
