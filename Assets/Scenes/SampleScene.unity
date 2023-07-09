@@ -155,6 +155,7 @@ MonoBehaviour:
   cuboidPrefab: {fileID: 6554146696765172254, guid: 8fa8b1fa86ac33143a6456b707e70367, type: 3}
   kamikazePrefab: {fileID: 3304406353451994630, guid: e2261440996e0374cbb98b0a77ec3405, type: 3}
   bouncyPrefab: {fileID: 8822029969093819619, guid: 9aa8b3abb8928244a9713ae92ddab5b8, type: 3}
+  indicatorPrefab: {fileID: 3379179914467562363, guid: 0f460671c851d7c4f99ea422e3624c89, type: 3}
   cuboidInterval: 5
   kamikazeInterval: 5
   bouncyInterval: 5
@@ -163,6 +164,7 @@ MonoBehaviour:
   bouncyNum: 2
   intervalDecreaseRate: 0.1
   intervalDecreaseInterval: 3
+  indicatorDuration: 3
 --- !u!4 &88587493
 Transform:
   m_ObjectHideFlags: 0
