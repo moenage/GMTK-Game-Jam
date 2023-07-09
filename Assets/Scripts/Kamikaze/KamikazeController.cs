@@ -18,6 +18,8 @@ public class KamikazeController : MonoBehaviour {
     public float forceOfImpact;
     public LayerMask layerToHit;
 
+    [SerializeField] private ParticleSystem deathPlosion;
+
     private void Start() {
         playerTarget = GameObject.FindWithTag("Player").transform;
         rb = GetComponent<Rigidbody2D>();
@@ -60,6 +62,7 @@ public class KamikazeController : MonoBehaviour {
             Vector2 directionExplode = obj.transform.position - transform.position;
             obj.GetComponent<Rigidbody2D>().AddForce(directionExplode * forceOfImpact);
         }
+        ParticleSystem explodeMe = Instantiate(deathPlosion, new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, 0), Quaternion.identity);
         Destroy(gameObject);
     }
 

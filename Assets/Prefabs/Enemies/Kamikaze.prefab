@@ -235,6 +235,7 @@ MonoBehaviour:
   layerToHit:
     serializedVersion: 2
     m_Bits: 64
+  deathPlosion: {fileID: 3774896140123644063, guid: 1047386ac0cc8384a9f4db1bec12ed7f, type: 3}
 --- !u!1 &3304406353946393678
 GameObject:
   m_ObjectHideFlags: 0

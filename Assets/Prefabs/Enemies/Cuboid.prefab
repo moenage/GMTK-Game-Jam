@@ -154,6 +154,7 @@ MonoBehaviour:
   playerTarget: {fileID: 0}
   firePoint: {fileID: 7782918530106573551}
   bulletPrefab: {fileID: 31677159778770791, guid: 4410f29a57316e1419679e3ce9ce5abe, type: 3}
+  deathPlosion: {fileID: 3774896140123644063, guid: 1047386ac0cc8384a9f4db1bec12ed7f, type: 3}
 --- !u!1 &8730747161199228938
 GameObject:
   m_ObjectHideFlags: 0

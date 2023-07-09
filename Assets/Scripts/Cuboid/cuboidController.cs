@@ -13,6 +13,8 @@ public class cuboidController : MonoBehaviour
     public Transform firePoint;
     public GameObject bulletPrefab;
 
+    [SerializeField] private ParticleSystem deathPlosion;
+
     private bool canShoot;
 
     private void Start() {
@@ -60,6 +62,7 @@ public class cuboidController : MonoBehaviour
             hitPoints--;
         }
         if (hitPoints <= 0) {
+            ParticleSystem explodeMe = Instantiate(deathPlosion, new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, 0), Quaternion.identity);
             Destroy(gameObject);
         }
     }
