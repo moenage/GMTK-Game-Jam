@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class cuboidController : MonoBehaviour
 {
-
     public int hitPoints;
     public float cuboidSpeed;
     public float cuboidTimedShots;

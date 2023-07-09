@@ -2,10 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerRotation : MonoBehaviour
-{
-    void Update()
-    {
+public class PlayerRotation : MonoBehaviour {
+    void Update() {
         Vector3 mousePosition = Input.mousePosition;
         mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
 
@@ -14,3 +12,5 @@ public class PlayerRotation : MonoBehaviour
         transform.up = direction;
     }
 }
+
+

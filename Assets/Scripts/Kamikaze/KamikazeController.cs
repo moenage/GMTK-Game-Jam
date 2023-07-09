@@ -20,7 +20,6 @@ public class KamikazeController : MonoBehaviour {
 
     private void Start() {
         playerTarget = GameObject.FindWithTag("Player").transform;
-        friendly = true;
         rb = GetComponent<Rigidbody2D>();
         rb.freezeRotation = true;
     }
@@ -36,6 +35,7 @@ public class KamikazeController : MonoBehaviour {
         }
         direction.Normalize();
 
+        // Getting the angle of rotation
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.Euler(Vector3.forward * angle);
 
@@ -54,52 +54,21 @@ public class KamikazeController : MonoBehaviour {
         }
     }
 
-
-        //private void FixedUpdate() {
-        //    Vector2 direction;
-        //    if (friendly) {
-        //        direction = transform.position - playerTarget.position;
-        //    }
-        //    else {
-        //        direction = -transform.position + playerTarget.position;
-        //    }
-        //    direction.Normalize();
-        //    float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        //    transform.rotation = Quaternion.Euler(Vector3.forward * angle);
-
-        //    Vector2 desiredVelocity = direction * kamikazeSpeed;
-
-        //    Vector2 force = (desiredVelocity - rb.velocity) * chaseForce;
-
-        //    // Limit the force to the maximum force value
-        //    if (force.magnitude > chaseForce) {
-        //        force = force.normalized * chaseForce;
-        //    }
-
-        //    rb.AddForce(force);
-
-        //}
-
-        void explode() {
+    void explode() {
         Collider2D[] objectsExploded = Physics2D.OverlapCircleAll(transform.position, fieldOfImpact, layerToHit);
         foreach(Collider2D obj in objectsExploded) {
             Vector2 directionExplode = obj.transform.position - transform.position;
             obj.GetComponent<Rigidbody2D>().AddForce(directionExplode * forceOfImpact);
         }
+        Destroy(gameObject);
     }
 
     private void OnCollisionEnter2D(Collision2D collision) {
         if (collision.gameObject.tag == "Bullet") {
             hitPoints--;
-
-            if (hitPoints <= 0) {
-                explode();
-                Destroy(gameObject);
-            }
         }
         else if(collision.gameObject.tag == "Player") {
             explode();
-            Destroy(gameObject);
         }
         else if (collision.gameObject.CompareTag("Wall")) {
             // Get the wall's normal vector
@@ -112,6 +81,12 @@ public class KamikazeController : MonoBehaviour {
 
             // Apply continuous force along the wall's surface
             rb.AddForce(parallelDirection * kamikazeSpeed, ForceMode2D.Force);
+        }
+        else if (collision.gameObject.tag == "Bouncy") {
+            hitPoints--;
+        }
+        if (hitPoints <= 0) {
+            explode();
         }
     }
     private void OnDrawGizmos() {

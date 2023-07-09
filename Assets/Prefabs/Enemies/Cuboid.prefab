@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 6554146696765172254}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.74, y: 2.41, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7782918530106573551}
@@ -148,9 +148,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitPoints: 3
-  cuboidSpeed: 0.2
+  cuboidSpeed: 1
   cuboidTimedShots: 1
-  shootingRange: 6
+  shootingRange: 10
   playerTarget: {fileID: 0}
   firePoint: {fileID: 7782918530106573551}
   bulletPrefab: {fileID: 31677159778770791, guid: 4410f29a57316e1419679e3ce9ce5abe, type: 3}

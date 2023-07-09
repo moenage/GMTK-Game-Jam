@@ -1,21 +1,26 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
-
-    public Rigidbody2D rb;
     public float moveSpeed = 5f;
-    public int hitpoints;
-    public Vector2 PlayerInput;
 
-    // Update is called once per frame
-    void Update() {
-        PlayerInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;
+    private Rigidbody2D rb;
+    private Vector2 movement;
+    float horizontalInput;
+    float verticalInput;
+
+    private void Start() {
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    void FixedUpdate() {
-        Vector2 moveForce = PlayerInput * moveSpeed;
-        rb.velocity = moveForce;
+    private void Update() {
+        horizontalInput = Input.GetAxis("Horizontal");
+        verticalInput = Input.GetAxis("Vertical");
+    }
+
+    private void FixedUpdate() {
+        // Calculate movement vector
+        movement = new Vector2(horizontalInput, verticalInput) * moveSpeed;
+        // Apply movement to the rigidbody
+        rb.velocity = movement;
     }
 }
