@@ -155,12 +155,14 @@ MonoBehaviour:
   cuboidPrefab: {fileID: 6554146696765172254, guid: 8fa8b1fa86ac33143a6456b707e70367, type: 3}
   kamikazePrefab: {fileID: 3304406353451994630, guid: e2261440996e0374cbb98b0a77ec3405, type: 3}
   bouncyPrefab: {fileID: 8822029969093819619, guid: 9aa8b3abb8928244a9713ae92ddab5b8, type: 3}
-  cuboidInterval: 3
-  kamikazeInterval: 2.3
+  cuboidInterval: 4
+  kamikazeInterval: 3
   bouncyInterval: 5
-  cuboidNum: 4
-  kamikazeNum: 5
+  cuboidNum: 20
+  kamikazeNum: 20
   bouncyNum: 2
+  intervalDecreaseRate: 0.1
+  intervalDecreaseInterval: 1
 --- !u!4 &88587493
 Transform:
   m_ObjectHideFlags: 0
@@ -349,8 +351,9 @@ GameObject:
   m_Component:
   - component: {fileID: 496518830}
   - component: {fileID: 496518832}
-  - component: {fileID: 496518831}
   - component: {fileID: 496518833}
+  - component: {fileID: 496518834}
+  - component: {fileID: 496518831}
   m_Layer: 6
   m_Name: Player Holder
   m_TagString: Player
@@ -367,7 +370,7 @@ Transform:
   m_GameObject: {fileID: 496518829}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1484689339}
@@ -433,11 +436,31 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -1.9599968, y: 4.7883515}
-      - {x: -2.4429944, y: 3.6731899}
-      - {x: -2.1265054, y: 3.65362}
-      - {x: -1.9572848, y: 3.666796}
-      - {x: -1.4491966, y: 3.662916}
+    - - {x: 0, y: 0.7753996}
+      - {x: -0.48388755, y: -0.31986412}
+      - {x: -0.51591307, y: -0.3777843}
+      - {x: 0.51591325, y: -0.3598161}
+      - {x: 0.24131918, y: 0.228161}
+--- !u!114 &496518834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 496518829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5120200cefda2b409adc89ae4cbe941, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 31677159778770791, guid: 274d0bf590d9d8849ad59ef62eb8c377, type: 3}
+  bulletCount: 40
+  bulletSpeed: 30
+  fireRate: 0.3
+  rotationSpeed: 30
+  bulletHellOn: 0
+  bulletHellDuration: 3
+  bulletHellExtension: 2
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -492,7 +515,7 @@ Camera:
   far clip plane: 5000
   field of view: 40
   orthographic: 1
-  orthographic size: 15
+  orthographic size: 18
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -767,7 +790,7 @@ MonoBehaviour:
   m_Follow: {fileID: 496518830}
   m_Lens:
     FieldOfView: 40
-    OrthographicSize: 15
+    OrthographicSize: 18
     NearClipPlane: 0.1
     FarClipPlane: 5000
     Dutch: 0
@@ -968,7 +991,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1484689337}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.948838, y: 4.0247803, z: 0.16747749}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1.3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:

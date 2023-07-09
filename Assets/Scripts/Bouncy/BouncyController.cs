@@ -5,8 +5,6 @@ public class BouncyController : MonoBehaviour {
     public float BouncySpeed;
     public int hitPoints;
 
-    private cuboidController cuboidController;
-
     private Vector2 direction;
 
     private Rigidbody2D rb;
@@ -23,20 +21,19 @@ public class BouncyController : MonoBehaviour {
 
     private void OnCollisionEnter2D(Collision2D collision) {
         // Reflect the direction upon colliding with a wall
-        if (collision.gameObject.CompareTag("Wall") || collision.gameObject.CompareTag("Cuboid")) {
+        if (collision.gameObject.CompareTag("Wall") || collision.gameObject.CompareTag("Cuboid") || collision.gameObject.CompareTag("Kamikaze")) {
             Vector2 normal = collision.contacts[0].normal;
             direction = Vector2.Reflect(direction, normal).normalized;
         }
-        else if (collision.gameObject.tag == "Bullet") {
-            hitPoints--;
-
-            if (hitPoints <= 0) {
-                Destroy(gameObject);
-            }
-        }
-        //else if (collision.gameObject.tag == "Player") {
-           
+        //else if (collision.gameObject.tag == "Bullet") {
+        //    hitPoints--;
         //}
+        else if (collision.gameObject.tag == "Player") {
+            hitPoints = 0;
+        }
+        if (hitPoints <= 0) {
+            Destroy(gameObject);
+        }
     }
 
     private Vector2 GetRandomDirection() {
