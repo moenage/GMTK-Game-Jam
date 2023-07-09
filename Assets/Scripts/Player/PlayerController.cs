@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -6,6 +7,8 @@ public class PlayerController : MonoBehaviour {
 
     public Image healthBar;
     public float healthAmount;
+
+    public static event Action onPlayerDeath;
 
     private Rigidbody2D rb;
     private Vector2 movement;
@@ -32,6 +35,9 @@ public class PlayerController : MonoBehaviour {
         if (collision.gameObject.tag == "EnemyBullet" || collision.gameObject.tag == "Cuboid" || collision.gameObject.tag == "Kamikaze") {
             healthAmount = healthAmount - 10;
             healthBar.fillAmount = healthAmount / 100f;
+        }
+        if(healthAmount <= 0) {
+            onPlayerDeath?.Invoke();
         }
     }
 }
