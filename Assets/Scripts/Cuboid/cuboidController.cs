@@ -17,6 +17,12 @@ public class cuboidController : MonoBehaviour
 
     private bool canShoot;
 
+    AudioManager audioManager;
+
+    private void Awake() {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
     private void Start() {
         canShoot = true;
         playerTarget = GameObject.FindWithTag("Player").transform;
@@ -63,6 +69,7 @@ public class cuboidController : MonoBehaviour
         }
         if (hitPoints <= 0) {
             ParticleSystem explodeMe = Instantiate(deathPlosion, new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, 0), Quaternion.identity);
+            audioManager.playSFX(audioManager.enemyHit);
             Destroy(gameObject);
         }
     }

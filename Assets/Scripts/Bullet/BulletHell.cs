@@ -15,6 +15,12 @@ public class BulletHell : MonoBehaviour {
     private float bulletHellTimer = 0f;
     private float remainingDuration = 0f;
 
+    AudioManager audioManager;
+
+    private void Awake() {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
     private void Update() {
         if (bulletHellOn) {
             bulletHellTimer += Time.deltaTime;
@@ -26,6 +32,7 @@ public class BulletHell : MonoBehaviour {
 
             timer += Time.deltaTime;
             if (timer >= fireRate) {
+                audioManager.playSFX(audioManager.laserSound);
                 FireBulletWave();
                 timer = 0f;
             }
@@ -37,17 +44,13 @@ public class BulletHell : MonoBehaviour {
         float currentAngle = 0f;
 
         for (int i = 0; i < bulletCount; i++) {
-            // Calculate the position and rotation of each bullet in the wave
             Vector3 bulletPosition = transform.position;
             Quaternion bulletRotation = Quaternion.Euler(0f, 0f, currentAngle);
 
-            // Instantiate a bullet from the prefab
             GameObject bullet = Instantiate(bulletPrefab, bulletPosition, bulletRotation);
 
-            // Get the bullet's Rigidbody2D component
             Rigidbody2D bulletRb = bullet.GetComponent<Rigidbody2D>();
 
-            // Set the bullet's velocity
             bulletRb.velocity = bullet.transform.up * bulletSpeed;
 
             // Increase the angle for the next bullet

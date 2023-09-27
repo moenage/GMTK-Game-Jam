@@ -10,6 +10,12 @@ public class Shooting : MonoBehaviour
     public float timedShots;
     private bool canShoot;
 
+    AudioManager audioManager;
+
+    private void Awake() {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
     private void Start() {
         canShoot = true;
     }
@@ -24,6 +30,7 @@ public class Shooting : MonoBehaviour
         canShoot = false;
 
         GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        audioManager.playSFX(audioManager.laserSound);
 
         StartCoroutine(shotCooldwon());
     }

@@ -15,6 +15,12 @@ public class PlayerController : MonoBehaviour {
     float horizontalInput;
     float verticalInput;
 
+    AudioManager audioManager;
+
+    private void Awake() {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
     private void Start() {
         rb = GetComponent<Rigidbody2D>();
     }
@@ -35,6 +41,7 @@ public class PlayerController : MonoBehaviour {
         if (collision.gameObject.tag == "EnemyBullet" || collision.gameObject.tag == "Cuboid" || collision.gameObject.tag == "Kamikaze") {
             healthAmount = healthAmount - 10;
             healthBar.fillAmount = healthAmount / 100f;
+            audioManager.playHit(audioManager.playerHit);
         }
         if(healthAmount <= 0) {
             onPlayerDeath?.Invoke();

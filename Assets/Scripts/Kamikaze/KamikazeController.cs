@@ -20,6 +20,12 @@ public class KamikazeController : MonoBehaviour {
 
     [SerializeField] private ParticleSystem deathPlosion;
 
+    AudioManager audioManager;
+
+    private void Awake() {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
     private void Start() {
         playerTarget = GameObject.FindWithTag("Player").transform;
         rb = GetComponent<Rigidbody2D>();
@@ -63,6 +69,7 @@ public class KamikazeController : MonoBehaviour {
             obj.GetComponent<Rigidbody2D>().AddForce(directionExplode * forceOfImpact);
         }
         ParticleSystem explodeMe = Instantiate(deathPlosion, new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, 0), Quaternion.identity);
+        audioManager.playSFX(audioManager.enemyHit);
         Destroy(gameObject);
     }
 
